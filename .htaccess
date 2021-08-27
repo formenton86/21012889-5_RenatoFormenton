@@ -1,0 +1,8 @@
+Options -Indexes
+RewriteEngine on
+
+RewriteRule ^quem-somos$ 				pages/quem-somos.php
+RewriteRule ^contato-e-localizacao$ 	pages/contato-e-localizacao.php
+RewriteRule ^pudim$ 					pages/produto-pudim.php
+RewriteRule ^torta-alema$ 				pages/produto-torta-alema.php
+RewriteRule ^torta-brownie$ 			pages/produto-torta-brownie.php	
